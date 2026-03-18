@@ -1,4 +1,4 @@
-# Crypto Analysis Agent 
+# CryptoSense
 
 I built this as a way to stop manually checking five different tabs every time I wanted a quick read on a cryptocurrency. You know the drill — CoinGecko for price, Twitter for sentiment, Google News for headlines, then trying to piece it all together in your head. This automates that whole process into a single terminal command.
 
